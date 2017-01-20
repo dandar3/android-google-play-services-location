@@ -5,12 +5,12 @@ Eclipse library project based on:<br/>
 
 **Requires:**
 - `Android 7.1 (API 25) SDK Platform`
-- [dandar3/android-google-play-services-base](https://github.com/dandar3/android-google-play-services-base/tags/10.0.0)
-- [dandar3/android-google-play-services-basement](https://github.com/dandar3/android-google-play-services-basement/tags/10.0.0)
-- [dandar3/android-google-play-services-tasks](https://github.com/dandar3/android-google-play-services-tasks/tags/10.0.0)
+- [dandar3/android-google-play-services-base](https://github.com/dandar3/android-google-play-services-base/tree/10.0.0)
+- [dandar3/android-google-play-services-basement](https://github.com/dandar3/android-google-play-services-basement/tree/10.0.0)
+- [dandar3/android-google-play-services-tasks](https://github.com/dandar3/android-google-play-services-tasks/tree/10.0.0)
 
 **References:**
-- https://developer.android.com/training/location/index.html
+- https://developer.android.com/training/location/
 - https://developers.google.com/android/guides/releases#november_2016_-_v100
 
 **SVN checkout:**
